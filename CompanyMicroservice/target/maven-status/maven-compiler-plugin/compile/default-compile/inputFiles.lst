@@ -1,0 +1,10 @@
+C:\Users\ranji\OneDrive\Desktop\JobApplication\CompanyMicroservice\src\main\java\com\ranjith\CompanyMicroserviceApplication.java
+C:\Users\ranji\OneDrive\Desktop\JobApplication\CompanyMicroservice\src\main\java\com\ranjith\messaging\RabbitMQConfiguration.java
+C:\Users\ranji\OneDrive\Desktop\JobApplication\CompanyMicroservice\src\main\java\com\ranjith\messaging\ReviewMessageConsumer.java
+C:\Users\ranji\OneDrive\Desktop\JobApplication\CompanyMicroservice\src\main\java\com\ranjith\serviceimpl\CompanyServiceImpl.java
+C:\Users\ranji\OneDrive\Desktop\JobApplication\CompanyMicroservice\src\main\java\com\ranjith\clients\ReviewClients.java
+C:\Users\ranji\OneDrive\Desktop\JobApplication\CompanyMicroservice\src\main\java\com\ranjith\dto\ReviewMessage.java
+C:\Users\ranji\OneDrive\Desktop\JobApplication\CompanyMicroservice\src\main\java\com\ranjith\repository\CompanyRepository.java
+C:\Users\ranji\OneDrive\Desktop\JobApplication\CompanyMicroservice\src\main\java\com\ranjith\controller\CompanyController.java
+C:\Users\ranji\OneDrive\Desktop\JobApplication\CompanyMicroservice\src\main\java\com\ranjith\entity\Company.java
+C:\Users\ranji\OneDrive\Desktop\JobApplication\CompanyMicroservice\src\main\java\com\ranjith\service\CompanyService.java

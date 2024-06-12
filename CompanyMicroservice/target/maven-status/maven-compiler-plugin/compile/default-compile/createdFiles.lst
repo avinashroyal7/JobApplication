@@ -1,0 +1,10 @@
+com\ranjith\clients\ReviewClients.class
+com\ranjith\dto\ReviewMessage.class
+com\ranjith\messaging\RabbitMQConfiguration.class
+com\ranjith\CompanyMicroserviceApplication.class
+com\ranjith\serviceimpl\CompanyServiceImpl.class
+com\ranjith\entity\Company.class
+com\ranjith\messaging\ReviewMessageConsumer.class
+com\ranjith\controller\CompanyController.class
+com\ranjith\service\CompanyService.class
+com\ranjith\repository\CompanyRepository.class
